@@ -94,10 +94,10 @@ return array(
             'class' => 'yiiwheels.YiiWheels',
         ),
         'db' => array(
-            'connectionString' => 'mysql:host=localhost;dbname=resto',
+            'connectionString' => 'mysql:host=mysqlsdb.co8hm2var4k9.eu-west-1.rds.amazonaws.com;dbname=depjc432cm4',
             'emulatePrepare' => true,
-            'username' => 'root',
-            'password' => 'admin',
+            'username' => 'depjc432cm4',
+            'password' => 'GifqXFYlLH3d',
             'charset' => 'utf8',
         ),
         'errorHandler' => array(
